@@ -1,1 +1,1 @@
-# HKWindowsSpotlightImageImport
+# WindowsSpotlightImageImport
